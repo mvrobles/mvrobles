@@ -6,11 +6,6 @@
 Find me at:
 [LinkdIn](https://www.linkedin.com/in/melissa-robles-97b733165).
 
-
-
-### Find me at:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/melissa-robles-97b733165" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
@@ -22,4 +17,3 @@ Find me at:
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/melissa-robles-97b733165
