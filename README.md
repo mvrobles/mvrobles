@@ -7,8 +7,7 @@
 - 📫 How to reach me: melissa.robles07@gmail.com
 - ⚡ Fun fact: I speak 3 languages ( Spanish, Italian, English )
 
-### Find me at:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Find me at: [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
