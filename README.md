@@ -4,10 +4,13 @@
 
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently studying at Los Andes university.
+- 💬 Ask me about ... Anything
 - 📫 How to reach me: melissa.robles07@gmail.com
 - ⚡ Fun fact: I speak 3 languages ( Spanish, Italian, English )
 
-### Find me at: [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Find me at: 
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vsco.svg" />][vsco]
 
 <br />
 
@@ -27,3 +30,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrobles&theme=light&hide_langs_below=1" />
 
 [linkedin]: https://www.linkedin.com/in/melissa-robles-97b733165
+[vsco]: vsco.co/unicoornioazul
