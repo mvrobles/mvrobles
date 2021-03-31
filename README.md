@@ -26,8 +26,8 @@
 <br />
 <br />
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrobles&theme=light">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrobles&theme=light" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrobles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrobles" />
 
 [linkedin]: https://www.linkedin.com/in/melissa-robles-97b733165
 [vsco]: https://vsco.co/unicoornioazul/gallery
