@@ -26,7 +26,7 @@
 <br />
 <br />
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrobles&theme=light&hide_langs_below=1">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrobles&theme=light">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrobles&theme=light" />
 
 [linkedin]: https://www.linkedin.com/in/melissa-robles-97b733165
